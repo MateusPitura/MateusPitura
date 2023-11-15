@@ -43,7 +43,4 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 </p>
 
-<h3>See my projects below</h3>
-
 <!--Eu usei esse site para gerar esse Readme https://rahuldkjain.github.io/gh-profile-readme-generator/-->
-
