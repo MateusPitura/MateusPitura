@@ -10,16 +10,14 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mateuspitura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateuspitura" height="30" width="40" /></a>
-<br>
+
 <br>
   
-</p>
+</div>
+  <h3 align="left">Languages and Tools</h3>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuspitura&show_icons=true&locale=en&layout=compact" alt="mateuspitura"/>
+</div>
 
-<h3 align="left">Languages and Tools</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuspitura&show_icons=true&locale=en&layout=compact" alt="mateuspitura"/></p>
-
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -29,21 +27,18 @@
 <br>
 
 <p align="left"> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/f3a0580c-80c5-4480-95db-5a44a8cdebe9" alt="reactnative" width="40" height="40"/>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/72a19ad7-9d87-47f0-9a27-73c0884e6415" alt="android" width="40" height="40"/>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/9028acf1-258f-4155-8a55-380ef64141ac" alt="oci" width="40" height="40"/>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/c162607a-5d28-4dce-8141-4fad5f58f1dc" alt="spring" width="40" height="40"/>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/311e2951-28c0-43d5-814f-4ca48620926c" alt="java" width="40" height="40"/>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/b641284e-3442-4897-8a2e-bdc80f8f0ed9" alt="html5" width="40" height="40"/>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/ef1ad012-87c5-4615-988e-b4912bbd087a" alt="css3" width="40" height="40"/>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/edf7b721-74ad-49af-b375-e407bd403917" alt="javascript" width="40" height="40"/>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/9dda4a7b-f392-4b40-83ed-883054f112cf" alt="typescript" width="40" height="40"/>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/d58dd648-e100-4867-a6af-b3f5c1b3be6f" alt="linux" width="40" height="40"/>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/1d3d5f02-cc1f-4331-9b8b-7954bc04fb27" alt="git" width="40" height="40"/>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/d0e393db-017d-4795-9a6f-f07bbee7dd1a" alt="mysql" width="40" height="40"/>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/508996c1-1a46-4922-9591-86a97a1eaf14" alt="figma" width="40" height="40"/>
+  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/94319544-336e-482c-8aec-3f9fee41d800" alt="postman" width="40" height="40"/>
 </p>
-
-<!--Eu usei esse site para gerar esse Readme https://rahuldkjain.github.io/gh-profile-readme-generator/-->
