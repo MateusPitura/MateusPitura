@@ -26,7 +26,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <p align="left"> 
   <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/f3a0580c-80c5-4480-95db-5a44a8cdebe9" alt="reactnative" width="40" height="40"/>
