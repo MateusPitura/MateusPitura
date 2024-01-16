@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateus Pitura</h1>
 <h3 align="center">A mobile Android developer from Brazil</h3>
 
-![LinkedIn](https://github.com/MateusPitura/MateusPitura/assets/119008106/693b42c7-24f5-40bf-8763-53a196bfd794)
+![LinkedIn](https://github.com/MateusPitura/MateusPitura/assets/119008106/a3562f66-5ed5-4c11-9161-392f98446219)
 
 - 🔭 I’m currently working on [app-reactnative-vestibular](https://github.com/MateusPitura/app-reactnative-vestibular)
 
