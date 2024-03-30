@@ -26,18 +26,20 @@
 <br>
 
 <p align="left"> 
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/f3a0580c-80c5-4480-95db-5a44a8cdebe9" alt="reactnative" width="40" height="40"/>
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/72a19ad7-9d87-47f0-9a27-73c0884e6415" alt="android" width="40" height="40"/>
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/9028acf1-258f-4155-8a55-380ef64141ac" alt="oci" width="40" height="40"/>
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/c162607a-5d28-4dce-8141-4fad5f58f1dc" alt="spring" width="40" height="40"/>
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/311e2951-28c0-43d5-814f-4ca48620926c" alt="java" width="40" height="40"/>
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/b641284e-3442-4897-8a2e-bdc80f8f0ed9" alt="html5" width="40" height="40"/>
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/ef1ad012-87c5-4615-988e-b4912bbd087a" alt="css3" width="40" height="40"/>
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/edf7b721-74ad-49af-b375-e407bd403917" alt="javascript" width="40" height="40"/>
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/9dda4a7b-f392-4b40-83ed-883054f112cf" alt="typescript" width="40" height="40"/>
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/d58dd648-e100-4867-a6af-b3f5c1b3be6f" alt="linux" width="40" height="40"/>
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/1d3d5f02-cc1f-4331-9b8b-7954bc04fb27" alt="git" width="40" height="40"/>
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/d0e393db-017d-4795-9a6f-f07bbee7dd1a" alt="mysql" width="40" height="40"/>
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/508996c1-1a46-4922-9591-86a97a1eaf14" alt="figma" width="40" height="40"/>
-  <img src="https://github.com/MateusPitura/MateusPitura/assets/119008106/94319544-336e-482c-8aec-3f9fee41d800" alt="postman" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/>
+  <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oci"/>
+  <img src="https://img.shields.io/badge/spring boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 </p>
+
+<!--Link for badges: https://github.com/Ileriayo/markdown-badges--/>
