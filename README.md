@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/mateuspitura" target="blank"><img align="center" src="https://github.com/MateusPitura/MateusPitura/assets/119008106/a01d35cc-94a5-40a5-8a69-6343dbfc123b" alt="mateuspitura" height="30"/></a>
 
 </div>
-  <h3 align="left">Languages and Tools</h3>
+  <h3 align="left">Languages & Tools</h3>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuspitura&show_icons=true&locale=en&layout=compact" alt="mateuspitura"/>
 </div>
 
