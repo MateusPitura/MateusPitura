@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mateuspitura" target="blank"><img align="center" src="https://github.com/MateusPitura/MateusPitura/assets/119008106/a01d35cc-94a5-40a5-8a69-6343dbfc123b" alt="mateuspitura" height="30"/></a>
+<a href="https://linkedin.com/in/mateuspitura" target="_blank"><img align="center" src="https://github.com/MateusPitura/MateusPitura/assets/119008106/a01d35cc-94a5-40a5-8a69-6343dbfc123b" alt="mateuspitura" height="30"/></a>
 
 <h3 align="left">Languages & Tools</h3>
 <!--
