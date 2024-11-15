@@ -6,9 +6,6 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mateuspitura" target="_blank"><img align="center" src="https://github.com/MateusPitura/MateusPitura/assets/119008106/a01d35cc-94a5-40a5-8a69-6343dbfc123b" alt="linkedin" height="30"/></a>
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
 <a href="https://pituramateus.cfd" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/f0318b76-b7f1-4640-be1d-03f759edcc23" alt="portfolio" height="30"/></a>
 
 <h3 align="left">Languages & Tools</h3>
