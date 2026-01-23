@@ -37,7 +37,7 @@
 </p>
 <h4 align="left">I also know</h4>
 <p align="left">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<!-- <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> -->
 <!-- <img src="https://img.shields.io/badge/spring boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/> -->
 <!-- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> -->
 <img src="https://img.shields.io/badge/RESTful API-2F3134?style=for-the-badge" alt="RESTFUL API"/>
