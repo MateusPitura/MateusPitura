@@ -43,6 +43,7 @@
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/spring boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="SpringBoot"/>
 </p>
 
 <!--Link for badges: https://github.com/Ileriayo/markdown-badges--/>
